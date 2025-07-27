@@ -21,6 +21,12 @@
 ![Git](https://img.shields.io/badge/-Git-000?logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
 ![JWT](https://img.shields.io/badge/-JWT-000?logo=jsonwebtokens)
+![Keycloak](https://img.shields.io/badge/-Keycloak-000?logo=keycloak)
+![Liquibase](https://img.shields.io/badge/-Liquibase-000?logo=liquibase)
+![Postman](https://img.shields.io/badge/-Postman-000?logo=postman)
+![DBeaver](https://img.shields.io/badge/-DBeaver-000?logo=dbeaver)
+![Amvera](https://img.shields.io/badge/-Amvera-000?logo=)
+![ELK](https://img.shields.io/badge/-ELK_Stack-000?logo=elasticstack)
 
 ---
 
