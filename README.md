@@ -58,6 +58,16 @@
 ---
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fusername.github.io%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
 
+<script>
+fetch('https://api.countapi.xyz/hit/username.github.io/visitors')
+  .then(res => res.json())
+  .then(data => {
+    document.getElementById('visitorCount').innerText = data.value;
+  });
+</script>
+
+<div>Visitors: <span id="visitorCount">0</span></div>
+
 Спасибо, что заглянул! Буду рад обратной связи и совместным проектам.
 
 
@@ -66,7 +76,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
