@@ -1,4 +1,4 @@
-### Привет! Меня зовут Павел 👋
+<img width="1331" height="881" alt="image" src="https://github.com/user-attachments/assets/57c123fa-6628-456b-91b3-dfeea2766638" />### Привет! Меня зовут Павел 👋
 
 Я Java-разработчик, увлечённый созданием надёжных и масштабируемых приложений. В своей работе я делаю упор на чистую архитектуру, продуманную логику и практическое применение современных технологий.
 
@@ -22,6 +22,9 @@
 - [Java Development Kit](https://gb.ru/certificates/2814969) | [Второй сертификат](https://gb.ru/certificates/2829013.pdf)
 - [Java Junior](https://gb.ru/certificates/2815693) | [Второй сертификат](https://gb.ru/certificates/2815931)
 - [Фреймворк Spring](https://gb.ru/certificates/2825226) | [Второй сертификат](https://gb.ru/certificates/2826419)
+- [Алгоритмыи структурыданных]<img width="1331" height="881" alt="image" src="https://github.com/user-attachments/assets/9c63b5e7-d862-451d-86b4-7d4bec9d8621" />
+  
+
 
 ---
 
