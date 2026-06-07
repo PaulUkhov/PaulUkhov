@@ -6,6 +6,7 @@
 
 #### 💼 О себе:
 - 🎓 Закончил дипломный проект — [интернет-магазин с отзывами и фильтрацией товаров](https://github.com/PaulUkhov/DiplomicProject.git)
+- 🤝 Совместный проект с Ментором(https://github.com/BogdanPryadko4853) — [Магазин цифровых ключей] (https://github.com/PaulUkhov/digital-key-hub) 
 - 🛠️ Работал с микросервисной архитектурой, REST API и Docker
 - ⚙️ Использую Spring Boot, Maven, PostgreSQL, Hibernate, JWT
 - 📌 Соблюдаю принципы SOLID и активно применяю паттерны проектирования
