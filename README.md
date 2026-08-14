@@ -32,13 +32,13 @@
 ### 🧰 Tech Stack & Tools
 
 #### Backend
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)
-![Spring Security](https://img.shields.io/badge/-SpringSecurity-000?style=for-the-badge&logo=springsecurity)
-![Spring Data JPA](https://img.shields.io/badge/-SpringDataJPA-000?style=for-the-badge&logo=spring)
-![Spring Data MongoDB](https://img.shields.io/badge/-SpringDataMongoDB-000?style=for-the-badge&logo=spring)
-![Spring WebSocket](https://img.shields.io/badge/-WebSocket-000?style=for-the-badge&logo=socketdotio)
-![Spring AMQP](https://img.shields.io/badge/-RabbitMQ-000?style=for-the-badge&logo=rabbitmq)
+- **Java** — язык программирования
+- **Spring Boot** — фреймворк для приложений
+- **Spring Security** — аутентификация и авторизация
+- **Spring Data JPA** — работа с реляционными БД
+- **Spring Data MongoDB** — работа с NoSQL БД
+- **Spring WebSocket** — real-time коммуникация
+- **Spring AMQP (RabbitMQ)** — асинхронные сообщения
 
 #### Databases & Storage
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
