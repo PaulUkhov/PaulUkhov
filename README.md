@@ -29,21 +29,49 @@
 
 ---
 
-#### 🧰 Технологии и инструменты:
-![Java](https://img.shields.io/badge/-Java-000?logo=java)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?logo=springboot)
-![Maven](https://img.shields.io/badge/-Maven-000?logo=apachemaven)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql)
-![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
-![Git](https://img.shields.io/badge/-Git-000?logo=git)
-![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
-![JWT](https://img.shields.io/badge/-JWT-000?logo=jsonwebtokens)
-![Keycloak](https://img.shields.io/badge/-Keycloak-000?logo=keycloak)
-![Liquibase](https://img.shields.io/badge/-Liquibase-000?logo=liquibase)
-![Postman](https://img.shields.io/badge/-Postman-000?logo=postman)
-![DBeaver](https://img.shields.io/badge/-DBeaver-000?logo=dbeaver)
-![Amvera](https://img.shields.io/badge/-Amvera-000?logo=)
-![ELK](https://img.shields.io/badge/-ELK_Stack-000?logo=elasticstack)
+### 🧰 Tech Stack & Tools
+
+#### Backend
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/-SpringSecurity-000?style=for-the-badge&logo=springsecurity)
+![Spring Data JPA](https://img.shields.io/badge/-SpringDataJPA-000?style=for-the-badge&logo=spring)
+![Spring Data MongoDB](https://img.shields.io/badge/-SpringDataMongoDB-000?style=for-the-badge&logo=spring)
+![Spring WebSocket](https://img.shields.io/badge/-WebSocket-000?style=for-the-badge&logo=socketdotio)
+![Spring AMQP](https://img.shields.io/badge/-RabbitMQ-000?style=for-the-badge&logo=rabbitmq)
+
+#### Databases & Storage
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
+![MinIO](https://img.shields.io/badge/-MinIO-000?style=for-the-badge&logo=minio)
+
+#### Build & Migration
+![Maven](https://img.shields.io/badge/-Maven-000?style=for-the-badge&logo=apachemaven)
+![Gradle](https://img.shields.io/badge/-Gradle-000?style=for-the-badge&logo=gradle)
+![Flyway](https://img.shields.io/badge/-Flyway-000?style=for-the-badge&logo=flyway)
+![Liquibase](https://img.shields.io/badge/-Liquibase-000?style=for-the-badge&logo=liquibase)
+
+#### Security
+![JWT](https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=jsonwebtokens)
+![OAuth2](https://img.shields.io/badge/-OAuth2-000?style=for-the-badge&logo=oauth)
+![Keycloak](https://img.shields.io/badge/-Keycloak-000?style=for-the-badge&logo=keycloak)
+
+#### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker)
+![Docker Compose](https://img.shields.io/badge/-DockerCompose-000?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux)
+![Postman](https://img.shields.io/badge/-Postman-000?style=for-the-badge&logo=postman)
+
+#### Utilities
+![Lombok](https://img.shields.io/badge/-Lombok-000?style=for-the-badge&logo=projectlombok)
+![MapStruct](https://img.shields.io/badge/-MapStruct-000?style=for-the-badge)
+
+#### Logging & Monitoring
+![ELK Stack](https://img.shields.io/badge/-ELK_Stack-000?style=for-the-badge&logo=elasticstack)
+
+#### Hosting
+![Amvera](https://img.shields.io/badge/-Amvera-000?style=for-the-badge)
 
 ---
 
